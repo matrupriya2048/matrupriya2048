@@ -29,7 +29,7 @@
 <a href="https://fb.com/matrupriya dibyanshu panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matrupriya dibyanshu panda" height="30" width="40" /></a>
 <a href="https://instagram.com/matrupriya2_0_4_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matrupriya2_0_4_8" height="30" width="40" /></a>
 <a href="https://medium.com/@matrupriya dibyanshu panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matrupriya dibyanshu panda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/just build program" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just build program" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@JustBuildPrograms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just build program" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/matrupriya_dibyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrupriya_dibyanshu" height="30" width="40" /></a>
 </p>
 
